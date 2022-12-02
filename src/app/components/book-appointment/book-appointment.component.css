@@ -1,0 +1,35 @@
+.main{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    background-color: #101134;
+}
+
+.flex{
+    display: flex;
+    font-size: 20px;
+}
+.appmain{
+    width: 100vw;
+    height:88.8vh;
+    background-color: #101134;
+    display: flex;
+    justify-content: center;
+    color:white
+}
+.register-medic{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5vh;
+    /* justify-content: center; */
+    align-items: center;
+    width: 40vw;
+}
+input,select{
+    width: 30vw;
+}
+
+.btn-success{
+    width:30vw;
+}
